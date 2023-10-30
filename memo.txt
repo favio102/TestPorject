@@ -1,0 +1,12 @@
+- create a Project
+
+dotnet new console -o ./CsharpProjects/TestProject
+
+- build program
+
+- run Program
+dotnet run
+
+
+memo
+ 2,147,483,647, maximum value an int can store.
