@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "5NEreukFA7bNMQdwRFL46oRSTIl6AKBzxEJDadewRacdcW6iq9MFevllOVZgOy6wk3vQtVFXYG4mwzZHVNUElQ==",
+  "dgSpecHash": "NyoSgEVGr5xHoN6iY3ZAM9zjh8gyFjg5i1901x5SxrAh+lhaJPgEsQ6QtBopJtEIXsVLNzGDrU70Kl13tDBG6g==",
   "success": true,
   "projectFilePath": "/Users/fav/code/CsharpProjects/TestPorject/TestPorject.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/fav/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/fav/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/fav/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.14/microsoft.netcore.app.host.osx-arm64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

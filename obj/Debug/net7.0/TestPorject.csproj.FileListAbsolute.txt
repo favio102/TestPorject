@@ -12,3 +12,4 @@
 /Users/fav/code/CsharpProjects/TestPorject/obj/Debug/net7.0/TestPorject.pdb
 /Users/fav/code/CsharpProjects/TestPorject/obj/Debug/net7.0/TestPorject.genruntimeconfig.cache
 /Users/fav/code/CsharpProjects/TestPorject/obj/Debug/net7.0/ref/TestPorject.dll
+/Users/fav/code/CsharpProjects/TestPorject/obj/Debug/net7.0/TestPorject.sourcelink.json
